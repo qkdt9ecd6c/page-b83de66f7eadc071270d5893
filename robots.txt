@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-bc15f3fca6.ovyahab.cn/sitemap.xml
